@@ -1,0 +1,6 @@
+{
+  "name": "MindDecoder AI",
+  "description": "High-frequency neural stream simulation, brain-computer interface telemetry, and AI thought decoding dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
